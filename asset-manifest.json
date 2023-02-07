@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quote-roulette/static/css/main.1aa132b5.css",
-    "main.js": "/quote-roulette/static/js/main.5412cc9c.js",
+    "main.js": "/quote-roulette/static/js/main.a10b999e.js",
     "static/media/quote-icon.svg": "/quote-roulette/static/media/quote-icon.a703b57d6fe355d2903de0dbd6719d7c.svg",
     "index.html": "/quote-roulette/index.html",
     "main.1aa132b5.css.map": "/quote-roulette/static/css/main.1aa132b5.css.map",
-    "main.5412cc9c.js.map": "/quote-roulette/static/js/main.5412cc9c.js.map"
+    "main.a10b999e.js.map": "/quote-roulette/static/js/main.a10b999e.js.map"
   },
   "entrypoints": [
     "static/css/main.1aa132b5.css",
-    "static/js/main.5412cc9c.js"
+    "static/js/main.a10b999e.js"
   ]
 }
